@@ -1,0 +1,16 @@
+C:\Users\zbcdasp\source\repos\Elon Musk\obj\Debug\net5.0\Elon Musk.csproj.AssemblyReference.cache
+C:\Users\zbcdasp\source\repos\Elon Musk\obj\Debug\net5.0\Elon Musk.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zbcdasp\source\repos\Elon Musk\obj\Debug\net5.0\Elon Musk.AssemblyInfoInputs.cache
+C:\Users\zbcdasp\source\repos\Elon Musk\obj\Debug\net5.0\Elon Musk.AssemblyInfo.cs
+C:\Users\zbcdasp\source\repos\Elon Musk\obj\Debug\net5.0\Elon Musk.csproj.CoreCompileInputs.cache
+C:\Users\zbcdasp\source\repos\Elon Musk\bin\Debug\net5.0\Elon Musk.exe
+C:\Users\zbcdasp\source\repos\Elon Musk\bin\Debug\net5.0\Elon Musk.deps.json
+C:\Users\zbcdasp\source\repos\Elon Musk\bin\Debug\net5.0\Elon Musk.runtimeconfig.json
+C:\Users\zbcdasp\source\repos\Elon Musk\bin\Debug\net5.0\Elon Musk.runtimeconfig.dev.json
+C:\Users\zbcdasp\source\repos\Elon Musk\bin\Debug\net5.0\Elon Musk.dll
+C:\Users\zbcdasp\source\repos\Elon Musk\bin\Debug\net5.0\ref\Elon Musk.dll
+C:\Users\zbcdasp\source\repos\Elon Musk\bin\Debug\net5.0\Elon Musk.pdb
+C:\Users\zbcdasp\source\repos\Elon Musk\obj\Debug\net5.0\Elon Musk.dll
+C:\Users\zbcdasp\source\repos\Elon Musk\obj\Debug\net5.0\ref\Elon Musk.dll
+C:\Users\zbcdasp\source\repos\Elon Musk\obj\Debug\net5.0\Elon Musk.pdb
+C:\Users\zbcdasp\source\repos\Elon Musk\obj\Debug\net5.0\Elon Musk.genruntimeconfig.cache
