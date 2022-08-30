@@ -1,0 +1,16 @@
+C:\Users\zbcdasp\source\repos\Robot\bin\Debug\net5.0\Robot.exe
+C:\Users\zbcdasp\source\repos\Robot\bin\Debug\net5.0\Robot.deps.json
+C:\Users\zbcdasp\source\repos\Robot\bin\Debug\net5.0\Robot.runtimeconfig.json
+C:\Users\zbcdasp\source\repos\Robot\bin\Debug\net5.0\Robot.runtimeconfig.dev.json
+C:\Users\zbcdasp\source\repos\Robot\bin\Debug\net5.0\Robot.dll
+C:\Users\zbcdasp\source\repos\Robot\bin\Debug\net5.0\ref\Robot.dll
+C:\Users\zbcdasp\source\repos\Robot\bin\Debug\net5.0\Robot.pdb
+C:\Users\zbcdasp\source\repos\Robot\obj\Debug\net5.0\Robot.csproj.AssemblyReference.cache
+C:\Users\zbcdasp\source\repos\Robot\obj\Debug\net5.0\Robot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zbcdasp\source\repos\Robot\obj\Debug\net5.0\Robot.AssemblyInfoInputs.cache
+C:\Users\zbcdasp\source\repos\Robot\obj\Debug\net5.0\Robot.AssemblyInfo.cs
+C:\Users\zbcdasp\source\repos\Robot\obj\Debug\net5.0\Robot.csproj.CoreCompileInputs.cache
+C:\Users\zbcdasp\source\repos\Robot\obj\Debug\net5.0\Robot.dll
+C:\Users\zbcdasp\source\repos\Robot\obj\Debug\net5.0\ref\Robot.dll
+C:\Users\zbcdasp\source\repos\Robot\obj\Debug\net5.0\Robot.pdb
+C:\Users\zbcdasp\source\repos\Robot\obj\Debug\net5.0\Robot.genruntimeconfig.cache
