@@ -1,0 +1,16 @@
+C:\Users\zbcdasp\source\repos\Fordelingshatten\bin\Debug\net5.0\Fordelingshatten.exe
+C:\Users\zbcdasp\source\repos\Fordelingshatten\bin\Debug\net5.0\Fordelingshatten.deps.json
+C:\Users\zbcdasp\source\repos\Fordelingshatten\bin\Debug\net5.0\Fordelingshatten.runtimeconfig.json
+C:\Users\zbcdasp\source\repos\Fordelingshatten\bin\Debug\net5.0\Fordelingshatten.runtimeconfig.dev.json
+C:\Users\zbcdasp\source\repos\Fordelingshatten\bin\Debug\net5.0\Fordelingshatten.dll
+C:\Users\zbcdasp\source\repos\Fordelingshatten\bin\Debug\net5.0\ref\Fordelingshatten.dll
+C:\Users\zbcdasp\source\repos\Fordelingshatten\bin\Debug\net5.0\Fordelingshatten.pdb
+C:\Users\zbcdasp\source\repos\Fordelingshatten\obj\Debug\net5.0\Fordelingshatten.csproj.AssemblyReference.cache
+C:\Users\zbcdasp\source\repos\Fordelingshatten\obj\Debug\net5.0\Fordelingshatten.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zbcdasp\source\repos\Fordelingshatten\obj\Debug\net5.0\Fordelingshatten.AssemblyInfoInputs.cache
+C:\Users\zbcdasp\source\repos\Fordelingshatten\obj\Debug\net5.0\Fordelingshatten.AssemblyInfo.cs
+C:\Users\zbcdasp\source\repos\Fordelingshatten\obj\Debug\net5.0\Fordelingshatten.csproj.CoreCompileInputs.cache
+C:\Users\zbcdasp\source\repos\Fordelingshatten\obj\Debug\net5.0\Fordelingshatten.dll
+C:\Users\zbcdasp\source\repos\Fordelingshatten\obj\Debug\net5.0\ref\Fordelingshatten.dll
+C:\Users\zbcdasp\source\repos\Fordelingshatten\obj\Debug\net5.0\Fordelingshatten.pdb
+C:\Users\zbcdasp\source\repos\Fordelingshatten\obj\Debug\net5.0\Fordelingshatten.genruntimeconfig.cache
