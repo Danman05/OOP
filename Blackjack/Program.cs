@@ -2,7 +2,7 @@
 using System.Threading;
 namespace Blackjack
 {
-    class Program
+    class Program           // This program has been helped by GoonsLife
     {
         static void Main(string[] args)
         {
