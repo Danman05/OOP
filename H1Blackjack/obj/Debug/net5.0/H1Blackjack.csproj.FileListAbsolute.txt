@@ -1,0 +1,16 @@
+C:\Users\danie\source\repos\H1Blackjack\bin\Debug\net5.0\H1Blackjack.exe
+C:\Users\danie\source\repos\H1Blackjack\bin\Debug\net5.0\H1Blackjack.deps.json
+C:\Users\danie\source\repos\H1Blackjack\bin\Debug\net5.0\H1Blackjack.runtimeconfig.json
+C:\Users\danie\source\repos\H1Blackjack\bin\Debug\net5.0\H1Blackjack.runtimeconfig.dev.json
+C:\Users\danie\source\repos\H1Blackjack\bin\Debug\net5.0\H1Blackjack.dll
+C:\Users\danie\source\repos\H1Blackjack\bin\Debug\net5.0\ref\H1Blackjack.dll
+C:\Users\danie\source\repos\H1Blackjack\bin\Debug\net5.0\H1Blackjack.pdb
+C:\Users\danie\source\repos\H1Blackjack\obj\Debug\net5.0\H1Blackjack.csproj.AssemblyReference.cache
+C:\Users\danie\source\repos\H1Blackjack\obj\Debug\net5.0\H1Blackjack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\source\repos\H1Blackjack\obj\Debug\net5.0\H1Blackjack.AssemblyInfoInputs.cache
+C:\Users\danie\source\repos\H1Blackjack\obj\Debug\net5.0\H1Blackjack.AssemblyInfo.cs
+C:\Users\danie\source\repos\H1Blackjack\obj\Debug\net5.0\H1Blackjack.csproj.CoreCompileInputs.cache
+C:\Users\danie\source\repos\H1Blackjack\obj\Debug\net5.0\H1Blackjack.dll
+C:\Users\danie\source\repos\H1Blackjack\obj\Debug\net5.0\ref\H1Blackjack.dll
+C:\Users\danie\source\repos\H1Blackjack\obj\Debug\net5.0\H1Blackjack.pdb
+C:\Users\danie\source\repos\H1Blackjack\obj\Debug\net5.0\H1Blackjack.genruntimeconfig.cache
