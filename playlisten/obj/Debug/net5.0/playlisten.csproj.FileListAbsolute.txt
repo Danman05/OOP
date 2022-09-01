@@ -1,0 +1,16 @@
+C:\Users\danie\source\repos\playlisten\bin\Debug\net5.0\playlisten.exe
+C:\Users\danie\source\repos\playlisten\bin\Debug\net5.0\playlisten.deps.json
+C:\Users\danie\source\repos\playlisten\bin\Debug\net5.0\playlisten.runtimeconfig.json
+C:\Users\danie\source\repos\playlisten\bin\Debug\net5.0\playlisten.runtimeconfig.dev.json
+C:\Users\danie\source\repos\playlisten\bin\Debug\net5.0\playlisten.dll
+C:\Users\danie\source\repos\playlisten\bin\Debug\net5.0\ref\playlisten.dll
+C:\Users\danie\source\repos\playlisten\bin\Debug\net5.0\playlisten.pdb
+C:\Users\danie\source\repos\playlisten\obj\Debug\net5.0\playlisten.csproj.AssemblyReference.cache
+C:\Users\danie\source\repos\playlisten\obj\Debug\net5.0\playlisten.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\source\repos\playlisten\obj\Debug\net5.0\playlisten.AssemblyInfoInputs.cache
+C:\Users\danie\source\repos\playlisten\obj\Debug\net5.0\playlisten.AssemblyInfo.cs
+C:\Users\danie\source\repos\playlisten\obj\Debug\net5.0\playlisten.csproj.CoreCompileInputs.cache
+C:\Users\danie\source\repos\playlisten\obj\Debug\net5.0\playlisten.dll
+C:\Users\danie\source\repos\playlisten\obj\Debug\net5.0\ref\playlisten.dll
+C:\Users\danie\source\repos\playlisten\obj\Debug\net5.0\playlisten.pdb
+C:\Users\danie\source\repos\playlisten\obj\Debug\net5.0\playlisten.genruntimeconfig.cache
