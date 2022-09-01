@@ -1,0 +1,16 @@
+C:\Users\zbcdasp\source\repos\Planeterne\bin\Debug\net5.0\Planeterne.exe
+C:\Users\zbcdasp\source\repos\Planeterne\bin\Debug\net5.0\Planeterne.deps.json
+C:\Users\zbcdasp\source\repos\Planeterne\bin\Debug\net5.0\Planeterne.runtimeconfig.json
+C:\Users\zbcdasp\source\repos\Planeterne\bin\Debug\net5.0\Planeterne.runtimeconfig.dev.json
+C:\Users\zbcdasp\source\repos\Planeterne\bin\Debug\net5.0\Planeterne.dll
+C:\Users\zbcdasp\source\repos\Planeterne\bin\Debug\net5.0\ref\Planeterne.dll
+C:\Users\zbcdasp\source\repos\Planeterne\bin\Debug\net5.0\Planeterne.pdb
+C:\Users\zbcdasp\source\repos\Planeterne\obj\Debug\net5.0\Planeterne.csproj.AssemblyReference.cache
+C:\Users\zbcdasp\source\repos\Planeterne\obj\Debug\net5.0\Planeterne.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zbcdasp\source\repos\Planeterne\obj\Debug\net5.0\Planeterne.AssemblyInfoInputs.cache
+C:\Users\zbcdasp\source\repos\Planeterne\obj\Debug\net5.0\Planeterne.AssemblyInfo.cs
+C:\Users\zbcdasp\source\repos\Planeterne\obj\Debug\net5.0\Planeterne.csproj.CoreCompileInputs.cache
+C:\Users\zbcdasp\source\repos\Planeterne\obj\Debug\net5.0\Planeterne.dll
+C:\Users\zbcdasp\source\repos\Planeterne\obj\Debug\net5.0\ref\Planeterne.dll
+C:\Users\zbcdasp\source\repos\Planeterne\obj\Debug\net5.0\Planeterne.pdb
+C:\Users\zbcdasp\source\repos\Planeterne\obj\Debug\net5.0\Planeterne.genruntimeconfig.cache
