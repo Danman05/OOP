@@ -1,0 +1,16 @@
+C:\Users\danie\source\repos\Jedi Mind Trick\bin\Debug\net5.0\Jedi Mind Trick.exe
+C:\Users\danie\source\repos\Jedi Mind Trick\bin\Debug\net5.0\Jedi Mind Trick.deps.json
+C:\Users\danie\source\repos\Jedi Mind Trick\bin\Debug\net5.0\Jedi Mind Trick.runtimeconfig.json
+C:\Users\danie\source\repos\Jedi Mind Trick\bin\Debug\net5.0\Jedi Mind Trick.runtimeconfig.dev.json
+C:\Users\danie\source\repos\Jedi Mind Trick\bin\Debug\net5.0\Jedi Mind Trick.dll
+C:\Users\danie\source\repos\Jedi Mind Trick\bin\Debug\net5.0\ref\Jedi Mind Trick.dll
+C:\Users\danie\source\repos\Jedi Mind Trick\bin\Debug\net5.0\Jedi Mind Trick.pdb
+C:\Users\danie\source\repos\Jedi Mind Trick\obj\Debug\net5.0\Jedi Mind Trick.csproj.AssemblyReference.cache
+C:\Users\danie\source\repos\Jedi Mind Trick\obj\Debug\net5.0\Jedi Mind Trick.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\source\repos\Jedi Mind Trick\obj\Debug\net5.0\Jedi Mind Trick.AssemblyInfoInputs.cache
+C:\Users\danie\source\repos\Jedi Mind Trick\obj\Debug\net5.0\Jedi Mind Trick.AssemblyInfo.cs
+C:\Users\danie\source\repos\Jedi Mind Trick\obj\Debug\net5.0\Jedi Mind Trick.csproj.CoreCompileInputs.cache
+C:\Users\danie\source\repos\Jedi Mind Trick\obj\Debug\net5.0\Jedi Mind Trick.dll
+C:\Users\danie\source\repos\Jedi Mind Trick\obj\Debug\net5.0\ref\Jedi Mind Trick.dll
+C:\Users\danie\source\repos\Jedi Mind Trick\obj\Debug\net5.0\Jedi Mind Trick.pdb
+C:\Users\danie\source\repos\Jedi Mind Trick\obj\Debug\net5.0\Jedi Mind Trick.genruntimeconfig.cache
