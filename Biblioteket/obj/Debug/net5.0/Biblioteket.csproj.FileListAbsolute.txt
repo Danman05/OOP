@@ -1,0 +1,16 @@
+C:\Users\danie\source\repos\Biblioteket\bin\Debug\net5.0\Biblioteket.exe
+C:\Users\danie\source\repos\Biblioteket\bin\Debug\net5.0\Biblioteket.deps.json
+C:\Users\danie\source\repos\Biblioteket\bin\Debug\net5.0\Biblioteket.runtimeconfig.json
+C:\Users\danie\source\repos\Biblioteket\bin\Debug\net5.0\Biblioteket.runtimeconfig.dev.json
+C:\Users\danie\source\repos\Biblioteket\bin\Debug\net5.0\Biblioteket.dll
+C:\Users\danie\source\repos\Biblioteket\bin\Debug\net5.0\ref\Biblioteket.dll
+C:\Users\danie\source\repos\Biblioteket\bin\Debug\net5.0\Biblioteket.pdb
+C:\Users\danie\source\repos\Biblioteket\obj\Debug\net5.0\Biblioteket.csproj.AssemblyReference.cache
+C:\Users\danie\source\repos\Biblioteket\obj\Debug\net5.0\Biblioteket.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\source\repos\Biblioteket\obj\Debug\net5.0\Biblioteket.AssemblyInfoInputs.cache
+C:\Users\danie\source\repos\Biblioteket\obj\Debug\net5.0\Biblioteket.AssemblyInfo.cs
+C:\Users\danie\source\repos\Biblioteket\obj\Debug\net5.0\Biblioteket.csproj.CoreCompileInputs.cache
+C:\Users\danie\source\repos\Biblioteket\obj\Debug\net5.0\Biblioteket.dll
+C:\Users\danie\source\repos\Biblioteket\obj\Debug\net5.0\ref\Biblioteket.dll
+C:\Users\danie\source\repos\Biblioteket\obj\Debug\net5.0\Biblioteket.pdb
+C:\Users\danie\source\repos\Biblioteket\obj\Debug\net5.0\Biblioteket.genruntimeconfig.cache
